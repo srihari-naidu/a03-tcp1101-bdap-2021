@@ -30,8 +30,8 @@ g++ main.cpp -o BDAP
 5. The statistical computation for each row and column will be displayed
 6. The report will be generated in HTML format and automatically opened in your default browser
 
+> For detailed instructions on how to use the program, please refer to the `docs/BDAP User Documentation.pdf` file.
+
 ## Contributors
 
 - Srihari Naidu
-
-> For detailed instructions on how to use the program, please refer to the BDAP User Documentation.
