@@ -32,6 +32,6 @@ g++ main.cpp -o BDAP
 
 > For detailed instructions on how to use the program, please refer to the `docs/BDAP User Documentation.pdf` file.
 
-## Contributors
+## Credits
 
-- Srihari Naidu
+This project was created by me for the Bachelors of Computer Science Trimester 1, 2021/2022 Programming Fundamentals.
